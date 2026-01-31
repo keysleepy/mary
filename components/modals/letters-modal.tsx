@@ -13,18 +13,16 @@ const letters = [
   {
     title: "My Dearest, Ai",
     content: `Every moment with you feels like a beautiful dream i never want to wake up from. Paano, sa panaginip lang din kasi kita nakikita at nakakasama.
+    And a month in, i've learned the weight of your absence as carefully as i've learned the sound of your voice.
 
-One month in, and i've learned the weight of your absence as carefully as i've learned the sound of your voice.
-
-Loving  you looks like waiting. Waiting sa replies mo, for days to end so we can sleep nang sabay. 
-
-It's learning how to miss someone without resenting the distance that made the missing possible.`,
+    Palagi nalang kita namimiss, kahit kausap naman kita. Hay.`,
   },
   {
     title: "",
-    content: `There are moments i reach for you without thinking. In the middle of a thought, in the middle of the day, in the middle of being fine. Kahit nga ata nakatulala lang ako, bigla bigla kitang maaalala at lalapit sa'yo para magkuwento bigla.
-
-You've taught me what it means to truly love and be loved. Hindi man tayo sigurado kung tayo talaga tulad nung napag-kuwentuhan natin, pero i promise na habang nasa akin ka, mamahalin kita nang buo.`,
+    content: `Parang "it's learning how to miss someone without resenting the distance that made the missing possible." atake
+    
+    You've taught me what it means to truly love and be loved. 
+    Hindi man tayo sigurado kung tayo talaga tulad nung napag-kuwentuhan natin, pero i promise na habang nasa akin ka, mamahalin kita nang buo.`,
   },
   {
     title: "",

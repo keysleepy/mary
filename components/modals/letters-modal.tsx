@@ -24,7 +24,7 @@ It's learning how to miss someone without resenting the distance that made the m
     title: "",
     content: `There are moments i reach for you without thinking. In the middle of a thought, in the middle of the day, in the middle of being fine. Kahit nga ata nakatulala lang ako, bigla bigla kitang maaalala at lalapit sa'yo para magkuwento bigla.
 
-You've taught me what it means to truly love and be loved. So i stay, out of certainty. Hindi man tayo sigurado kung tayo talaga tulad nung napag-kuwentuhan natin, pero i promise na habang nasa akin ka, mamahalin kita nang buo.`,
+You've taught me what it means to truly love and be loved. Hindi man tayo sigurado kung tayo talaga tulad nung napag-kuwentuhan natin, pero i promise na habang nasa akin ka, mamahalin kita nang buo.`,
   },
   {
     title: "",

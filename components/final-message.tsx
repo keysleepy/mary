@@ -94,7 +94,7 @@ export function FinalMessage({ onRestart }: FinalMessageProps) {
           transition={{ delay: 1.5 }}
           className="font-sans text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed"
         >
-          Naway tumagal pa tayo, kasi kung hindi, sasapakin ko bago mo
+          Naway tumagal pa tayo—kasi kung hindi, sasapakin ko bago mo
         </motion.p>
 
         <motion.div

@@ -13,7 +13,7 @@ const reasons = [
   "I'd rather wipe your tears than let you drown in silence thinking no one cares about u",
   "I'd love to figure out what love is with you",
   "To imagine your hands in mine is to feel warmth in the coldest hours.",
-   "I’d rather love you from afar than not love you at all.",
+   "if nobody seems to notice your small wins, i always do. palagi ipapaalala sa'yo ni coli.",
 ]
 
 export function SurpriseModal({ isOpen, onClose }: SurpriseModalProps) {
